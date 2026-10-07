@@ -165,6 +165,7 @@ This project is available for educational and personal use.
 ---
 
 ⭐ If you found this project useful, consider giving the repository a star!
-```
 
-This version is ready to paste into your repository as `README.md`.
+## Author
+
+Arslan Eqbal
