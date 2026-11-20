@@ -4,6 +4,14 @@ A **Retrieval-Augmented Generation (RAG)** based chatbot that allows users to up
 
 The application extracts text from the uploaded PDF, splits it into smaller chunks, generates embeddings, stores them in an in-memory vector database, retrieves the most relevant sections for each question, and uses a Large Language Model to generate an answer based on the retrieved context.
 
+---
+
+## 🚀 Live Demo
+
+🔗 **Deployed App:** **https://life-insurance-renewal-forecasting.streamlit.app/**
+
+---
+
 ## 🚀 Features
 
 - 📄 Upload PDF documents
@@ -162,10 +170,12 @@ It is a useful starting point for learning how modern document-based AI assistan
 
 This project is available for educational and personal use.
 
----
-
 ⭐ If you found this project useful, consider giving the repository a star!
+
+---
 
 ## Author
 
-Arslan Eqbal
+Md Arslan
+Developed with ❤️ By arsu
+
