@@ -8,7 +8,7 @@ The application extracts text from the uploaded PDF, splits it into smaller chun
 
 ## 🚀 Live Demo
 
-🔗 **Deployed App:** **https://life-insurance-renewal-forecasting.streamlit.app/**
+🔗 **Deployed App:** **https://document-q-a-rag-chatbot.streamlit.app/**
 
 ---
 
@@ -177,5 +177,6 @@ This project is available for educational and personal use.
 ## Author
 
 Md Arslan
+
 Developed with ❤️ By arsu
 
